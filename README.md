@@ -3,7 +3,7 @@
 <p align="center">
 - 🌱 I’m currently learning C++
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?C++" />
+    <img src="https://skillicons.dev/icons?Cpp" />
   </a>
 - 💬 Ask me about guns
 </p>
